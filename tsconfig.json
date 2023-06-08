@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./out",
+        "rootDir": "./src",
+        "sourceMap": true,
+        "incremental": true,
+        "moduleResolution": "node",
+        "lib": ["es6", "dom", "es2017"],
+        "target": "es5"
+    }
+}
